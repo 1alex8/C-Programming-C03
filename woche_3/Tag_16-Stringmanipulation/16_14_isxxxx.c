@@ -1,3 +1,11 @@
+/*
+isxxxx functions return true or false: 
+
+Wichtiger Hinweis zu den Rückgabewerten: Die is...-Funktionen geben nicht zwingend 1 zurück, 
+wenn die Bedingung zutrifft — nur einen Wert != 0. 
+Deshalb prüft man sie immer mit if (isdigit(c)) statt if (isdigit(c) == 1).
+*/
+
 #include <stdio.h>
 #include <ctype.h>
 
