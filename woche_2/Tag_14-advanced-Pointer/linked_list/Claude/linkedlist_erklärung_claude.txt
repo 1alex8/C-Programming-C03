@@ -1,0 +1,4 @@
+Was ist eine Linked List?
+
+Eine Linked List ist eine dynamische Datenstruktur, bei der jedes Element (ein Node) zwei Dinge enthält: 
+den eigentlichen Datenwert und einen Zeiger auf den nächsten Node. Im Gegensatz zu einem Array liegen die Elemente nicht zusammenhängend im Speicher — sie sind durch Zeiger miteinander verkettet.

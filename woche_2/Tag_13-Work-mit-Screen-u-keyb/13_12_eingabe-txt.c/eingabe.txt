@@ -1,0 +1,8 @@
+Hallo du bist eine Testdatei ich erkläre dir jetzt wie man die Eingabe umleitet das sie aus einer txt datei kommt.
+Starte das CProgramm im Terminal via : ./CProgramm < eingabe.txt
+
+wenn man eine ausgabe umleiten will:
+./CProgramm > ausgabe.txt
+dann wird aber immer eine neue txt erstellt
+./CProgramm >> ausgabe.txt 
+dann wird keine neue erstellt

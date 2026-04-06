@@ -1,0 +1,10 @@
+Daten 1: 1.00
+Daten 2: 2.00
+Daten 3: 3.00
+Daten 4: 4.00
+Daten 5: 5.00
+Daten 1: 2.00
+Daten 2: 24.00
+Daten 3: 5.00
+Daten 4: 6.00
+Daten 5: 7.00
